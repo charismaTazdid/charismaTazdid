@@ -1,8 +1,8 @@
 ## Hi there, I'm Raihan Tazdid! 👋
 <p> --Full-stack JavaScript developer (MERN) || Trainer || Problem Solver </p>
 
-<img  align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=raihan-tajdid007&show_icons=true&theme=radical" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-tajdid007&layout=compact&theme=radical" /> 
+<img  align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=raihan-tajdid007&show_icons=true&theme=dracula" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-tajdid007&layout=compact&theme=onedark" /> 
 
 
 <img  height="24px" align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "  />
